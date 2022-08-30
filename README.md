@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=javaprojectreachability-nr&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=javaprojectreachability-nr)
+
 # Java Reachability Playground
 
 This is an intentionally vulnerable application. It was purposely designed to demonstrate the capabilities of Snyk's Reachable
