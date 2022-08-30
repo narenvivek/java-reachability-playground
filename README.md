@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=javaprojectreachability-nr&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=javaprojectreachability-nr)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=javaprojectreachability-nr)](https://sonarcloud.io/summary/new_code?id=javaprojectreachability-nr)
 
 # Java Reachability Playground
 
